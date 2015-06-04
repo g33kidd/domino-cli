@@ -1,0 +1,33 @@
+{
+  "name": "domino-cli",
+  "version": "0.0.1",
+  "description": "CLI for the domino WordPress theme",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "domino": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Themazing/domino-cli"
+  },
+  "keywords": [
+    "domino"
+  ],
+  "author": "Joshua Kidd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Themazing/domino-cli/issues"
+  },
+  "homepage": "https://github.com/Themazing/domino-cli",
+  "dependencies": {
+    "colors": "^1.1.0",
+    "commander": "^2.8.1",
+    "ejs": "^2.3.1",
+    "require-dir": "^0.3.0",
+    "watch": "^0.16.0"
+  }
+}

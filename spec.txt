@@ -1,0 +1,2 @@
+# Creating a new function
+domino new func customize_preview_init customize_preview_js
