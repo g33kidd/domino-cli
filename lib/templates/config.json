@@ -1,0 +1,14 @@
+{
+  "theme": {
+    "name": "Domino",
+    "uri": "http://github.com/Themazing/domino",
+    "author": "Themazing Themes",
+    "authorUri": "http://folsomcreative.com/",
+    "description": "Simple theme description.",
+    "version": "1.0.0",
+    "license": "GNU General Public License v2 or later",
+    "licenseUri": "",
+    "textDomain": "domino",
+    "tags": "domino,themazing,theme,tags"
+  }
+}
