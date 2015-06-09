@@ -1,2 +1,10 @@
-# Creating a new function
-domino new func customize_preview_init customize_preview_js
+# Create a new function
+domino new func [function name] [filename]
+
+# Create a new functions file
+# This automatically adds the new file to
+# functions.php in the theme's root dir.
+domino new funcFile [filename]
+
+# Creates a new page template
+domino new template [template name] [filename]
