@@ -1,0 +1,12 @@
+/*
+Theme Name: {{themeName}}
+Theme URI: {{themeUri}}
+Author: {{author}}
+Author URI: {{authorUri}}
+Description: {{description}}
+Version: {{themeVersion}}
+License: {{license}}
+License URI: {{licenseUri}}
+Text Domain: {{textDomain}}
+Tags: {{tags}}
+*/
