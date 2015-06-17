@@ -29,11 +29,13 @@
     "ejs": "^2.3.1",
     "gaze": "^0.5.1",
     "less": "^2.5.1",
+    "moment": "^2.10.3",
     "node-sass": "^3.2.0",
     "node-sass-import-once": "^1.2.0",
     "require-dir": "^0.3.0",
     "ssh-exec": "^1.1.1",
     "underscore": "^1.8.3",
-    "watch": "^0.16.0"
+    "watch": "^0.16.0",
+    "winston": "^1.0.0"
   }
 }

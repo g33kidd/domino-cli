@@ -1,4 +1,7 @@
 {
+  "assetsPath": "assets/",
+  "stylesPath": "stylesheets/",
+
   "theme": {
     "name": "Domino",
     "uri": "http://github.com/Themazing/domino",
